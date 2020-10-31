@@ -1,0 +1,39 @@
+:root {
+    --pink: #e83e8c;
+    --azul: #17a2b8;
+    --title: #707070;
+    --deep-gray: #373A3C;
+}
+
+.bg-pink {
+    background-color:  var(--pink);
+}
+
+body {
+    font-family: open-sans, sans-serif;
+}
+
+.icons {
+    background-color: var(--azul);
+    height: 10.625rem;
+}
+
+.title {
+    color: var(--title);
+}
+
+.card-body {
+    color: var(--deep-gray);
+}
+
+.card-title {
+    font-weight: 700;
+}
+
+.box {
+    height: 11.5rem;
+}
+
+.pay-title {
+    font-size: 2.5rem;
+}
